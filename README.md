@@ -45,3 +45,7 @@ cmake --install build
 
 This copies the executable, the Qt/OpenCV runtime DLLs and the `i18n/`
 translations next to it.
+
+## License
+
+[MIT](LICENSE)
